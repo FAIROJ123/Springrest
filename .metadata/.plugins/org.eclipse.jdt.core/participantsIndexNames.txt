@@ -1,0 +1,13 @@
+INDEX VERSION 1.130
+/home/bridgeit/Documents/Todo/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1930351639.index
+/Curd_operations/src/main/resources
+/home/bridgeit/Documents/Todo/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2301653580.index
+/simple_curd/src/main/resources
+/home/bridgeit/Documents/Todo/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2130643355.index
+/Sample/src/main/java
+/home/bridgeit/Documents/Todo/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1098041813.index
+/Curdoperations/src/main/resources
+/home/bridgeit/Documents/Todo/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2695303608.index
+/sample/src/main/resources
+/home/bridgeit/Documents/Todo/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/674792315.index
+/Sample/src/main/java

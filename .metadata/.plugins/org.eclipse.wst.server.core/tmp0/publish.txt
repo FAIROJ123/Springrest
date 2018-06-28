@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Jun 28 12:20:06 IST 2018
+org.eclipse.jst.j2ee.server\:Curdoperations=/home/bridgeit/Downloads/sts-bundle/pivotal-tc-server/instances/base-instance/wtpwebapps/Curdoperations
+org.eclipse.jst.j2ee.server\:/binary\:/home/bridgeit/.m2/repository/org/springframework/spring-web/4.1.6.RELEASE/spring-web-4.1.6.RELEASE.jar=/home/bridgeit/Downloads/sts-bundle/pivotal-tc-server/instances/base-instance/wtpwebapps/Curdoperations/WEB-INF/lib/spring-web-4.1.6.RELEASE.jar
